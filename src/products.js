@@ -2,7 +2,7 @@ const products = [
     {
 
         name: 'THE FIRST PORTFOLIO',
-        image: 'One.jpg',
+        image: '../images/One.jpg',
         Language: 'html, Css',
         description:
             'The first portfolio',
@@ -12,7 +12,7 @@ const products = [
     {
 
         name: 'PASSWORD GENERATOR',
-        image: 'Two.jpg',
+        image: '../images/Two.jpg',
         Language: 'html, Css, Java',
         description:
             'The first randomizer',
@@ -22,7 +22,7 @@ const products = [
     {
 
         name: 'TodoList',
-        image: 'todolist.jpg',
+        image: '../images/todolist.jpg',
         Language: 'html, Css, Javascript',
         description:
             'The first portfolio',
@@ -32,7 +32,7 @@ const products = [
     {
 
         name: 'BelcastroWeather',
-        image: 'BelcastroWeather.jpg',
+        image: '../images/BelcastroWeather.jpg',
         Language: 'html, Css, Javascript, JQuery, Ajax, Weather APi',
         description:
             'The first Ajax and api connection',
@@ -42,7 +42,7 @@ const products = [
     {
 
         name: 'myVoice',
-        image: 'myVoice.jpg',
+        image: '../images/myVoice.jpg',
         Language: 'html, Css, Javascript, JQuery, Ajax, YouTube Api',
         description:
             'Team Project 2',
@@ -52,7 +52,7 @@ const products = [
     {
 
         name: 'First Sold Product',
-        image: 'hablador.jpg',
+        image: '../images/hablador.jpg',
         Language: 'html, Css, Javascript, Firebase',
         description:
             'The first portfolio',
