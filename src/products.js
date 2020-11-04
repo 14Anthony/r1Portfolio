@@ -3,7 +3,7 @@ const products = [
     {
         _id: '1',
         name: 'Create your First Project',
-        image: 'One',
+        image: '../images/One.jpg',
         description:
             'The knowledge I had starting off in this bootcamp was that my email, would sometimes ask me if I wanted to print in plain text html, and I did not know what that was',
         rating: .5,
@@ -12,7 +12,7 @@ const products = [
     {
         _id: '2',
         name: 'My First Logic ',
-        image: 'Two',
+        image: '../images/Two.jpg',
         description:
             'This was the first time I said cool, when I made someting,  Understanding how to create something that generated random numbers',
         rating: 1.5,
